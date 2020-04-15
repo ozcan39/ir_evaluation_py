@@ -1,4 +1,4 @@
-# Information Retrieval (IR) Effectiveness Evaluation Library for Python
+# IREEL: Information Retrieval (IR) Effectiveness Evaluation Library for Python
 
 This library was created in order to evaluate the effectiveness of any kind of algorithm used in IR systems and analyze how well they perform. For this purpose,
 14 different effectiveness measurements have been put together. All of these measurements consist of mostly used ones in the literature. They are as follow:
